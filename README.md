@@ -65,7 +65,7 @@ body::before {
 </p>
  
 
-<h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部元顧問、佐藤先生お祝いの会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部元顧問、佐藤先生、瑞宝小綬章お祝いの会 !!!</marquee></span></h1>
 	
 <p align="right">2023年7月、佐藤先生お祝いの会の記録！</p>
 <img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
