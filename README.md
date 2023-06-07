@@ -65,12 +65,13 @@ body::before {
 </p>
  
 
-<h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部OB会の記録 !!!</marquee></span></h1>
-<p align="right">2017年８月、OB会佐藤先生のお言葉！</p>
+<h1><span class="yellow"><marquee behavior="left">!!! 東京都立大泉高校、柔道部元顧問、佐藤先生お祝いの会 !!!</marquee></span></h1>
+	
+<p align="right">2023年7月、佐藤先生お祝いの会の記録！</p>
 <img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
-	
+	<!--
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年11月30日(土)、OB会＠栄寿司 西口店 !!!</marquee></span></h1>
 <div id="wrap">
 <div style="background-color:rgb(255,255,255,0.3);">
@@ -173,11 +174,11 @@ body::before {
 <br><br>
 <p align="left">佐藤先生のお言葉、１６分あります</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30VzcX3Pfs8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br><br>
+<br><br>-->
 <p align="left">ご挨拶の冒頭にあった、安全教育の例。画像のクリックでリンク先に飛びます。</p>
 <a href="https://www.nipponbudokan.or.jp/pdf/shinkoujigyou/201511/h27_judo_shidouhouKenkyu.pdf" target="_blank"><img src="https://torokoid.github.io/ooizumi_judo/20191130.png" alt="サンプル画像" width="800" /></a>
 <p align="left">この他にもたくさんあります。検索キーワードは「佐藤幸夫　柔道　安全教育」</p>
-<br><br>
+<br><br><!--
 <h3><span class="white">
 <br>=====================================================================<br>
 今回は、昨年のOB会（12/1：18名参加）を上回るご参加。<br>
@@ -322,7 +323,7 @@ alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 33期/小曽根、石原、森下、東山、川島　36期/河津、堀内　37期/石丸、真島
 <br>=====================================================================<br>
 <br>中華料理ロバーツ　住所/渋谷区千駄ヶ谷5-21-6　2階　電話/03-5269-0045</span></h3>
-<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツ、食べログ、リンク</a></p></span>
+<span class="blue"><p align="center"><a href="https://tabelog.com/tokyo/A1304/A130403/13004119/" target="_blank">中華料理ロバーツ、食べログ、リンク</a></p></span>-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
