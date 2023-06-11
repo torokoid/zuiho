@@ -71,6 +71,11 @@ body::before {
 <img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
+	
+<p align="left">内閣府発表の資料に佐藤幸夫先生のお名前があります。画像クリックで内閣府の資料に飛びます。(リンク先４ページ目の最上段)</p>
+<a href="https://www8.cao.go.jp/shokun/hatsurei/r04aki/meibo_jokun/zuiho-13tokyo.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230611.png" alt="サンプル画像" width="900" /></a>
+	
+	
 	<!--
 <h1><span class="yellow"><marquee behavior="left">!!! 2019年11月30日(土)、OB会＠栄寿司 西口店 !!!</marquee></span></h1>
 <div id="wrap">
