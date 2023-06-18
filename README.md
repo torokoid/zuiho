@@ -82,12 +82,12 @@ body::before {
 	
 <a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F４面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_04.png" alt="サンプル画像" width="900" /></a>
 	
-
+<br><br>
 	
 <p align="left">内閣府発表の資料に佐藤幸夫先生のお名前があります。画像クリックで内閣府の資料に飛びます。(リンク先４ページ目の最上段)</p>
 <a href="https://www8.cao.go.jp/shokun/hatsurei/r04aki/meibo_jokun/zuiho-13tokyo.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230611_001.png" alt="サンプル画像" width="900" /></a>
 	
-	
+<br><br><br><br>	
 
 <p align="left">ご挨拶の冒頭にあった、安全教育の例。画像のクリックでリンク先に飛びます。</p>
 <a href="https://www.nipponbudokan.or.jp/pdf/shinkoujigyou/201511/h27_judo_shidouhouKenkyu.pdf" target="_blank"><img src="https://torokoid.github.io/ooizumi_judo/20191130.png" alt="サンプル画像" width="800" /></a>
