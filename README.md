@@ -59,10 +59,10 @@ body::before {
  
 </head>
 <body>
-<p class="note">
+<p class="note"><span class="blue">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
-</p>
+	</span></p>
  
 
 <h1><span class="yellow"><marquee behavior="left">!!!  元東京都立大泉高等学校柔道部顧問、佐藤幸夫先生「瑞宝小綬章」受賞を祝う会  !!!</marquee></span></h1>
