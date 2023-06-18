@@ -84,6 +84,9 @@ body::before {
 	
 <br><br>
 	
+<p align="left">お祝いの会、事前うちあわせ、2023_06_17</p>
+<a href="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" alt="サンプル画像" width="900" /></a>
+	
 <p align="left">内閣府発表の資料に佐藤幸夫先生のお名前があります。画像クリックで内閣府の資料に飛びます。(リンク先４ページ目の最上段)</p>
 <a href="https://www8.cao.go.jp/shokun/hatsurei/r04aki/meibo_jokun/zuiho-13tokyo.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230611_001.png" alt="サンプル画像" width="900" /></a>
 	
