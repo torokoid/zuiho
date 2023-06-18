@@ -89,7 +89,7 @@ body::before {
 	
 <br><br><br>
 	
-<p align="left">お祝いの会、事前うちあわせ、2023_06_17</p>
+<p align="left">お祝いの会、事前うちあわせ、2023年06月17日</p>
 <a href="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" alt="サンプル画像" width="900" /></a>
 	
 
