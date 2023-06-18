@@ -74,7 +74,15 @@ body::before {
 	
 	
 <p align="left">お祝いの会、案内状</p>
-<a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
+<a href="[https://torokoid.github.io/zuiho/20230701_01.png](https://github.com/torokoid/zuiho/blob/main/【確定版】☆１%20佐藤幸夫先生の叙勲を祝う会%EF%BC%8F案内状.pdf)" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
+	
+<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F１面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
+	
+<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F２・３面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
+	
+<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F４面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
+	
+
 	
 <p align="left">内閣府発表の資料に佐藤幸夫先生のお名前があります。画像クリックで内閣府の資料に飛びます。(リンク先４ページ目の最上段)</p>
 <a href="https://www8.cao.go.jp/shokun/hatsurei/r04aki/meibo_jokun/zuiho-13tokyo.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230611_001.png" alt="サンプル画像" width="900" /></a>
