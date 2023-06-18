@@ -74,13 +74,13 @@ body::before {
 	
 	
 <p align="left">お祝いの会、案内状</p>
-<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】☆１%20佐藤幸夫先生の叙勲を祝う会%EF%BC%8F案内状.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
 	
-<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F１面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/20230701_02.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
 	
-<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F２・３面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_03.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/20230701_03.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_03.png" alt="サンプル画像" width="900" /></a>
 	
-<a href="https://github.com/torokoid/zuiho/blob/main/【確定版】リーフレット%EF%BC%8F４面.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_04.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/20230701_04.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_04.png" alt="サンプル画像" width="900" /></a>
 	
 <br><br>
 	
