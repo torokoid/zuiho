@@ -255,5 +255,5 @@ alt="校友の歌唄え～！" width="180" border="10" /></a><br><br>
 
 <!-- フッタ -->
  <footer>
- Copyright 2023/07/11 S.Hada
+ Copyright 2023/07/02 S.Hada
  </footer>
