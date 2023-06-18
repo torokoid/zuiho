@@ -68,12 +68,11 @@ body::before {
 <h1><span class="yellow"><marquee behavior="left">!!!  元東京都立大泉高等学校柔道部顧問、佐藤幸夫先生「瑞宝小綬章」受賞を祝う会  !!!</marquee></span></h1>
 	
 <p align="right">2023年7月1日、佐藤先生お祝いの会の記録！</p>
-<img src="20230718_01.jpg" width="100">
 <img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 	
-	
+<img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
 	
