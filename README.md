@@ -96,7 +96,7 @@ body::before {
 	
 <br><br><br><br><br><br>
 
-<p align="left">ご挨拶の冒頭にあった、安全教育の例。画像のクリックでリンク先に飛びます。</p>
+<p align="left">安全教育の例。画像のクリックでリンク先に飛びます。</p>
 <a href="https://www.nipponbudokan.or.jp/pdf/shinkoujigyou/201511/h27_judo_shidouhouKenkyu.pdf" target="_blank"><img src="https://torokoid.github.io/ooizumi_judo/20191130.png" alt="サンプル画像" width="800" /></a>
 <p align="left">この他にもたくさんあります。検索キーワードは「佐藤幸夫　柔道　安全教育」</p>
 <br><br><!--
