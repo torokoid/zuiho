@@ -77,9 +77,9 @@ body::before {
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
 	
 <a href="https://torokoid.github.io/zuiho/20230701_02.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_02.png" alt="サンプル画像" width="900" /></a>
-	
+<!--
 <a href="https://torokoid.github.io/zuiho/20230701_03.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_03.png" alt="サンプル画像" width="900" /></a>
-	
+	-->
 <a href="https://torokoid.github.io/zuiho/20230701_04.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_04.png" alt="サンプル画像" width="900" /></a>
 	
 <br><br>
