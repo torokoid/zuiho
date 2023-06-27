@@ -43,7 +43,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/zuiho/0053.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/zuiho/0054.png) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -86,6 +86,8 @@ body::before {
 
 <p align="left">内閣府発表の資料に佐藤幸夫先生のお名前があります。画像クリックで内閣府の資料に飛びます。(リンク先４ページ目の最上段)</p>
 <a href="https://www8.cao.go.jp/shokun/hatsurei/r04aki/meibo_jokun/zuiho-13tokyo.pdf" target="_blank"><img src="https://torokoid.github.io/zuiho/20230611_001.png" alt="サンプル画像" width="900" /></a>
+
+<a href="https://torokoid.github.io/zuiho/0053.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/0053.JPG" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br>
 	
