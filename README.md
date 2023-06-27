@@ -64,7 +64,7 @@ body::before {
   より見やすくご覧頂けます。
 	</span></p>
  
-
+<br><br>
 <h1><span class="yellow"><marquee behavior="left">!!!  元東京都立大泉高等学校柔道部顧問、佐藤幸夫先生「瑞宝小綬章」受賞を祝う会  !!!</marquee></span></h1>
 	
 <p align="right">2023年7月1日、佐藤先生お祝いの会の記録！</p>
