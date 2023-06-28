@@ -108,7 +108,7 @@ body::before {
 <a href="https://torokoid.github.io/zuiho/line_010.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_010.png" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/zuiho/line_011.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_011.png" alt="サンプル画像" width="900" /></a>
 
-<br>
+<br><br>
 <p align="left">30期同期会Lineでの会話記録</p>
 <a href="https://torokoid.github.io/zuiho/line_101.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_101.png" alt="サンプル画像" width="900" /></a>
 	
