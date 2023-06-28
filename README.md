@@ -93,7 +93,8 @@ body::before {
 	
 <p align="left">お祝いの会、事前うちあわせ、2023年06月17日</p>
 <a href="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" alt="サンプル画像" width="900" /></a>
-	
+
+<br><br>
 <p align="left">Lineでの準備記録</p>
 <a href="https://torokoid.github.io/zuiho/line_001.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_001.png" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/zuiho/line_002.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_002.png" alt="サンプル画像" width="900" /></a>
@@ -106,6 +107,10 @@ body::before {
 <a href="https://torokoid.github.io/zuiho/line_009.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_009.png" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/zuiho/line_010.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_010.png" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/zuiho/line_011.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_011.png" alt="サンプル画像" width="900" /></a>
+
+<br>
+<p align="left">30期同期会Lineでの会話記録</p>
+<a href="https://torokoid.github.io/zuiho/line_101.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_101.png" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br>
 
