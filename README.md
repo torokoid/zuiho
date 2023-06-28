@@ -95,6 +95,7 @@ body::before {
 <a href="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
+<!--
 <p align="left">Lineでの準備記録</p>
 <a href="https://torokoid.github.io/zuiho/line_001.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_001.png" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/zuiho/line_002.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_002.png" alt="サンプル画像" width="900" /></a>
@@ -111,7 +112,7 @@ body::before {
 <br><br>
 <p align="left">30期同期会Lineでの会話記録</p>
 <a href="https://torokoid.github.io/zuiho/line_101.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_101.png" alt="サンプル画像" width="900" /></a>
-	
+	-->
 <br><br><br><br><br><br>
 
 <p align="left">安全教育の例。画像のクリックでリンク先に飛びます。</p>
