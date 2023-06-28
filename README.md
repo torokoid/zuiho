@@ -94,7 +94,18 @@ body::before {
 <p align="left">お祝いの会、事前うちあわせ、2023年06月17日</p>
 <a href="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" target="_blank"><img src="https://torokoid.github.io/zuiho/佐藤幸夫先生打合せ230617.JPG" alt="サンプル画像" width="900" /></a>
 	
-
+<p align="left">Lineでの準備記録</p>
+<a href="https://torokoid.github.io/zuiho/line_001.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_002.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_002.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_003.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_003.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_004.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_004.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_005.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_005.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_006.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_006.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_007.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_007.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_008.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_008.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_009.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_009.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_010.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_010.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/zuiho/line_011.png" target="_blank"><img src="https://torokoid.github.io/zuiho/line_011.png" alt="サンプル画像" width="900" /></a>
 	
 <br><br><br><br><br><br>
 
