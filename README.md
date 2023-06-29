@@ -3,8 +3,6 @@
 <html lang="ja">
  <head>
   <meta charset="utf-8" />
-	 
-
 <style type="text/css">
 
   p {
@@ -22,7 +20,7 @@ font-size: 1.5em;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
  -->
-	
+
  #preview{
 	position: relative;
 	border: 3px solid #333;
@@ -31,6 +29,10 @@ font-size: 1.5em;
 	display: none;
 	color: #FFF;
 	text-align: center;
+}
+
+section {
+background-color: rgba(0, 225, 0, 0.5);
 }
 
 #wrap {background:none} /*PC用の背景はオフ*/
