@@ -94,7 +94,7 @@ body::before {
 <a href="20230701_017.JPG" data-lightbox="abc"><img src="20230701_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_018.JPG" data-lightbox="abc"><img src="20230701_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_019.JPG" data-lightbox="abc"><img src="20230701_019.JPG" alt="サンプル画像" width="900" /></a>
-
+<a href="20230701_020.JPG" data-lightbox="abc"><img src="20230701_020.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br>
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
