@@ -74,10 +74,19 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 
+<h1><span class="blue">掲載概要</span></h1>
+<div class="yellow"> 
+<h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受賞を祝う会の映像の記録です。<br>
+掲載順は33期山田さんのデジイチ画像をトップエリアに、<br>
+開催当日、その日のうちにLINE共有された32期春木さん、37期柳浦さん、30期東さんのスマホ画像と続きます。<br>
+その下は、この会の開催経緯のお話しに続く動画集です。<br>
+佐藤先生、この度は本当におめでとうございます。<br>
+最後になりますが、総勢８７名参加の２時間半にわたる盛大な会を主催いただきました、幹事団の皆様、どうも有難うございました。</h1></div>
+<br><br><br><br>
 
 
 <p align="left">お祝いの会、開催当日中にLINE共有された写真です<br>
-提供メンバーは、32期春木さん、37期柳浦さん</p>
+提供メンバーは、32期春木さん、37期柳浦さん、30期東さん</p>
 <a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_002.JPG" data-lightbox="abc"><img src="20230701_002.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_003.JPG" data-lightbox="abc"><img src="20230701_003.JPG" alt="サンプル画像" width="450" /></a>
