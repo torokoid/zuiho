@@ -84,7 +84,56 @@ body::before {
 最後になりますが、総勢８７名参加の２時間半にわたる盛大な会を主催いただきました、幹事団の皆様、どうも有難うございました。</h1></div>
 <br><br><br><br>
 
+<p align="left">お祝いの会会場でデジイチを手に奔走していた33期山田さんの写真です。</p>
+<a href="20230701_021.jpg" data-lightbox="abc"><img src="20230701_021.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_022.jpg" data-lightbox="abc"><img src="20230701_022.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_023.jpg" data-lightbox="abc"><img src="20230701_023.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_024.jpg" data-lightbox="abc"><img src="20230701_024.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_025.jpg" data-lightbox="abc"><img src="20230701_025.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_026.jpg" data-lightbox="abc"><img src="20230701_026.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_027.jpg" data-lightbox="abc"><img src="20230701_027.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_028.jpg" data-lightbox="abc"><img src="20230701_028.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_029.jpg" data-lightbox="abc"><img src="20230701_029.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_030.jpg" data-lightbox="abc"><img src="20230701_030.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_031.jpg" data-lightbox="abc"><img src="20230701_031.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_032.jpg" data-lightbox="abc"><img src="20230701_032.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_033.jpg" data-lightbox="abc"><img src="20230701_033.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_034.jpg" data-lightbox="abc"><img src="20230701_034.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_035.jpg" data-lightbox="abc"><img src="20230701_035.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_036.jpg" data-lightbox="abc"><img src="20230701_036.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_037.jpg" data-lightbox="abc"><img src="20230701_037.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_038.jpg" data-lightbox="abc"><img src="20230701_038.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_039.jpg" data-lightbox="abc"><img src="20230701_039.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_040.jpg" data-lightbox="abc"><img src="20230701_040.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_041.jpg" data-lightbox="abc"><img src="20230701_041.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_042.jpg" data-lightbox="abc"><img src="20230701_042.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_043.jpg" data-lightbox="abc"><img src="20230701_043.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_044.jpg" data-lightbox="abc"><img src="20230701_044.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_045.jpg" data-lightbox="abc"><img src="20230701_045.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_046.jpg" data-lightbox="abc"><img src="20230701_046.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_047.jpg" data-lightbox="abc"><img src="20230701_047.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_048.jpg" data-lightbox="abc"><img src="20230701_048.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_049.jpg" data-lightbox="abc"><img src="20230701_049.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_050.jpg" data-lightbox="abc"><img src="20230701_050.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_051.jpg" data-lightbox="abc"><img src="20230701_051.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_052.jpg" data-lightbox="abc"><img src="20230701_052.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_053.jpg" data-lightbox="abc"><img src="20230701_053.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_054.jpg" data-lightbox="abc"><img src="20230701_054.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_055.jpg" data-lightbox="abc"><img src="20230701_055.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_056.jpg" data-lightbox="abc"><img src="20230701_056.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_057.jpg" data-lightbox="abc"><img src="20230701_057.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_058.jpg" data-lightbox="abc"><img src="20230701_058.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_059.jpg" data-lightbox="abc"><img src="20230701_059.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_060.jpg" data-lightbox="abc"><img src="20230701_060.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_061.jpg" data-lightbox="abc"><img src="20230701_061.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_062.jpg" data-lightbox="abc"><img src="20230701_062.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_063.jpg" data-lightbox="abc"><img src="20230701_063.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_064.jpg" data-lightbox="abc"><img src="20230701_064.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_065.jpg" data-lightbox="abc"><img src="20230701_065.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_066.jpg" data-lightbox="abc"><img src="20230701_066.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230701_067.jpg" data-lightbox="abc"><img src="20230701_067.jpg" alt="サンプル画像" width="900" /></a>
 
+<br><br>
 <p align="left">お祝いの会、開催当日中にLINE共有された写真です<br>
 提供メンバーは、32期春木さん、37期柳浦さん、30期東さん</p>
 <a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="450" /></a>
@@ -107,7 +156,29 @@ body::before {
 <a href="20230701_018.JPG" data-lightbox="abc"><img src="20230701_018.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_019.JPG" data-lightbox="abc"><img src="20230701_019.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_020.JPG" data-lightbox="abc"><img src="20230701_020.JPG" alt="サンプル画像" width="450" /></a>
+
+<br><br>
+<p align="left">以下動画集。</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9ffThkrQ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zgm3NpNtt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bq5Bbq9fvSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dg5O9bqWewo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5obbQx1I0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Mtl0R420jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uyh4HJ4RQSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TnGQldWNGjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <br><br><br><br>
+
+
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
