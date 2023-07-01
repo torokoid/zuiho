@@ -73,6 +73,27 @@ body::before {
 <img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
+
+<p align="left">お祝いの会、開催当日に共有された写真です</p>
+<a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_002.JPG" data-lightbox="abc"><img src="20230701_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_003.JPG" data-lightbox="abc"><img src="20230701_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_004.JPG" data-lightbox="abc"><img src="20230701_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_005.JPG" data-lightbox="abc"><img src="20230701_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_006.JPG" data-lightbox="abc"><img src="20230701_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_007.JPG" data-lightbox="abc"><img src="20230701_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_008.JPG" data-lightbox="abc"><img src="20230701_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_009.JPG" data-lightbox="abc"><img src="20230701_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_010.JPG" data-lightbox="abc"><img src="20230701_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_011.JPG" data-lightbox="abc"><img src="20230701_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_012.JPG" data-lightbox="abc"><img src="20230701_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_013.JPG" data-lightbox="abc"><img src="20230701_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_014.JPG" data-lightbox="abc"><img src="20230701_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_015.JPG" data-lightbox="abc"><img src="20230701_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_016.JPG" data-lightbox="abc"><img src="20230701_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_017.JPG" data-lightbox="abc"><img src="20230701_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_018.JPG" data-lightbox="abc"><img src="20230701_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_019.JPG" data-lightbox="abc"><img src="20230701_019.JPG" alt="サンプル画像" width="900" /></a>
 	
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
