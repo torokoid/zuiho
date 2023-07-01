@@ -136,7 +136,7 @@ body::before {
 <br><br>
 <p align="left">お祝いの会、開催当日中にLINE共有された写真です<br>
 提供メンバーは、32期春木さん、37期柳浦さん、30期東さん</p>
-<a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_002.JPG" data-lightbox="abc"><img src="20230701_002.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_003.JPG" data-lightbox="abc"><img src="20230701_003.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20230701_004.JPG" data-lightbox="abc"><img src="20230701_004.JPG" alt="サンプル画像" width="450" /></a>
