@@ -94,7 +94,8 @@ body::before {
 <a href="20230701_017.JPG" data-lightbox="abc"><img src="20230701_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_018.JPG" data-lightbox="abc"><img src="20230701_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_019.JPG" data-lightbox="abc"><img src="20230701_019.JPG" alt="サンプル画像" width="900" /></a>
-	
+
+<br><br><br><br>
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
