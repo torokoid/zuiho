@@ -74,7 +74,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 
-<p align="left">お祝いの会、開催当日に共有された写真です</p>
+<p align="left">お祝いの会、開催当日中に共有された写真です</p>
 <a href="20230701_001.JPG" data-lightbox="abc"><img src="20230701_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_002.JPG" data-lightbox="abc"><img src="20230701_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_003.JPG" data-lightbox="abc"><img src="20230701_003.JPG" alt="サンプル画像" width="900" /></a>
