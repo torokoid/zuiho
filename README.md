@@ -74,7 +74,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 
-<h1><span class="blue">掲載概要</span></h1>
+<h1><span class="white">掲載概要</span></h1>
 <div class="yellow"> 
 <h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受賞を祝う会の映像の記録です。<br>
 掲載順は33期山田さんのデジイチ画像をトップエリアに、<br>
