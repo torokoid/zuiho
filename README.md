@@ -121,7 +121,9 @@ body::before {
 <a href="20230701_054.jpg" data-lightbox="abc"><img src="20230701_054.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_055.jpg" data-lightbox="abc"><img src="20230701_055.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_056.jpg" data-lightbox="abc"><img src="20230701_056.jpg" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20230701_057.jpg" data-lightbox="abc"><img src="20230701_057.jpg" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20230701_058.jpg" data-lightbox="abc"><img src="20230701_058.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_059.jpg" data-lightbox="abc"><img src="20230701_059.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_060.jpg" data-lightbox="abc"><img src="20230701_060.jpg" alt="サンプル画像" width="900" /></a>
