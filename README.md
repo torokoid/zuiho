@@ -201,7 +201,7 @@ body::before {
 <a href="20230701_087.JPG" data-lightbox="abc"><img src="20230701_087.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<p align="left">佐藤先生から参加者全員に返礼品が渡されました。</p>
+<p align="left">佐藤先生から参加者全員にお礼の品々が渡されました。</p>
 <a href="20230701_088.JPG" data-lightbox="abc"><img src="20230701_088.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br>
 
