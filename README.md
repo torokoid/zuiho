@@ -205,6 +205,19 @@ body::before {
 <br><br>
 <p align="left">佐藤先生から参加者全員にお礼の品々が渡されました。</p>
 <a href="20230701_088.JPG" data-lightbox="abc"><img src="20230701_088.JPG" alt="サンプル画像" width="900" /></a>
+
+<br><br>
+<p align="left">会場で流されていたスライド画像です。</p>
+<a href="20230701_089.JPG" data-lightbox="abc"><img src="20230701_089.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_090.JPG" data-lightbox="abc"><img src="20230701_090.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_091.JPG" data-lightbox="abc"><img src="20230701_091.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_092.JPG" data-lightbox="abc"><img src="20230701_092.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_093.JPG" data-lightbox="abc"><img src="20230701_093.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_094.JPG" data-lightbox="abc"><img src="20230701_094.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_095.JPG" data-lightbox="abc"><img src="20230701_095.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_096.JPG" data-lightbox="abc"><img src="20230701_096.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_097.JPG" data-lightbox="abc"><img src="20230701_097.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20230701_098.JPG" data-lightbox="abc"><img src="20230701_098.JPG" alt="サンプル画像" width="200" /></a>
 <br><br><br><br>
 
 
