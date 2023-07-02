@@ -84,7 +84,7 @@ body::before {
 最後になりますが、総勢８７名参加の２時間半にわたる盛大な会を主催いただきました、幹事団の皆様、どうも有難うございました。</h1></div>
 <br><br><br><br>
 
-<p align="left">お祝いの会会場でデジイチを手に奔走していた33期山田さんの写真です。</p>
+<p align="left">お祝いの会会場でデジイチを手に奔走してくれた33期山田さんの写真です。</p>
 <a href="20230701_021.jpg" data-lightbox="abc"><img src="20230701_021.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_022.jpg" data-lightbox="abc"><img src="20230701_022.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230701_023.jpg" data-lightbox="abc"><img src="20230701_023.jpg" alt="サンプル画像" width="900" /></a>
