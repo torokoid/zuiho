@@ -142,7 +142,6 @@ body::before {
 <a href="20230701_004.JPG" data-lightbox="abc"><img src="20230701_004.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20230701_005.JPG" data-lightbox="abc"><img src="20230701_005.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20230701_006.JPG" data-lightbox="abc"><img src="20230701_006.JPG" alt="サンプル画像" width="400" /></a>
-
 <a href="20230701_008.JPG" data-lightbox="abc"><img src="20230701_008.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20230701_009.JPG" data-lightbox="abc"><img src="20230701_009.JPG" alt="サンプル画像" width="400" /></a>
 <a href="20230701_010.JPG" data-lightbox="abc"><img src="20230701_010.JPG" alt="サンプル画像" width="400" /></a>
